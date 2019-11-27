@@ -4,3 +4,7 @@
   * Zombies
   * Ghouls
   * Ghosts
+* Medium Tier Monsters
+  * Trolls
+  * Banshees
+  * Possessed Dolls
