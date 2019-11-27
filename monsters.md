@@ -8,3 +8,7 @@
   * Trolls
   * Banshees
   * Possessed Dolls
+* High Tier Monsters
+  * Vampires
+  * Werewolves
+  * Invisible People
