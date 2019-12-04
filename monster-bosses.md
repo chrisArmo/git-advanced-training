@@ -8,4 +8,7 @@
   * Beatrice
     * Ice Deity of cerulean lake
     * Shy, rarely encountered, and a silent killer
-
+* Level 3
+  * Wynona
+    * Demon of celestial fire
+    * Fierce, aggressive and precise with blazing fury
