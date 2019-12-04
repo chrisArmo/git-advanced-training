@@ -12,3 +12,7 @@
   * Vampires
   * Werewolves
   * Invisible People
+* Rare Tier Monsters
+  * Mermaid Vampires
+  * Flying Werewolves
+  * Zombie Bears
