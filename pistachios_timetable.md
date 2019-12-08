@@ -17,3 +17,8 @@
 
 1. Learn Java
 2. Be and not become
+
+### Diary
+
+> He caught a glimpse of a shimmering moon angel with the fire of a demon.
+> So lovely, so mesmerizing, such that breath ceases to flow.

@@ -18,3 +18,8 @@
 
 1. Conquer anxiety
 2. Cleans body and mind with spell
+
+### Diary
+
+> She felt the soothing rays of the sun beneath clear skies.
+> Her skin caressed by the wind as her mind drifts to dream lands beyond.
