@@ -3,4 +3,4 @@
 # Allow crawling of all content
 User-agent: *
 # What will be disallowed, what will be banished?
-Disallow:
+Disallow: everything
