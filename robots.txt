@@ -5,4 +5,4 @@ User-agent: *
 # What will be disallowed, what will be banished?
 Disallow: everything
 Trust: No one
-Watch: The benevolent
+Watch: The malevolent
